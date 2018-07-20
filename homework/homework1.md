@@ -20,7 +20,9 @@
 1. Decide on a location on your computer where you can download the Git-Demo repository
 2. Navigate to that folder in Terminal (Mac) or Command Line (Windows):
 	* type: ```cd path/to/your/file/```
-	* for example: ```cd ~/Dropbox/Code/Practice-Git/``` (Mac/Linux) | ```cd Users\yourUserName\Code\Practice-Git\``` (Windows)
+	* for example: 
+		* Mac/Linux: ```cd ~/Dropbox/Code/Practice-Git/```
+		* Windows: ```cd Users\yourUserName\Code\Practice-Git\```
 3. Create a new git repository in that location by using the command:
 	* ```git init```
 4. Copy the remote Git-Demo repository's code to your computer using ```git clone```:
