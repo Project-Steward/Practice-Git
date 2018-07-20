@@ -33,7 +33,6 @@
 ###	Part 4: Participate and practice Git!
 
 1. After downloading the repo's files, go to the folder titled 'introductions' and create a new text file. Title the file with your name (ex: molly-watson.txt).
-	* ```cd Practice-Git```
 2. Fill the file with the following information (see introductions/molly-watson.txt for examples):
 	* Name:
 	* Tell us something about yourself:
