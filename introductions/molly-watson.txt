@@ -1,0 +1,7 @@
+Name: Molly Watson
+
+Tell us something about yourself:
+Although I have used Git intermittently for years, every time I start using it again I have to remind myself of the Git and GitHub basics. ;)
+
+Write a message for the group:
+I'm really excited to start building our project, everyone! :D

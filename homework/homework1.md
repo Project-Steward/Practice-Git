@@ -39,6 +39,7 @@
 	* Write a message for the group:
 3. Next, open the file in the main Practice Git repository titled 'participants.txt', and add your name to the bottom of the list. 
 4. In the Terminal / Command Line program, use the 'git status' command to check the state of your files. You should see that there is one new untracked file, and one new modified file.
+	* ```git status```
 5. Add / update these files by using the 'git add' command, like so:
 	* ```git add introductions/your-name.txt```
 	* ```git add participants.txt```
