@@ -23,22 +23,22 @@
 	* for example: 
 		* Mac/Linux: ```cd ~/Dropbox/Code/Git/```
 		* Windows: ```cd Users\yourUserName\Code\Git\```
-3. Create a new git repository in that location by using the command:
-	* ```git init```
-4. Copy the remote Git-Demo repository's code to your computer using ```git clone```:
+3. Copy the remote Git-Demo repository's code to your computer using ```git clone```:
 	* ```git clone https://github.com/project-steward/Practice-Git```
 	* _Note_: this will create a new folder in your directory called "Practice-Git" containing the cloned repository's files
-5. Create a link to the remote GitHub repository you just created by using the command:
+4. Create a link to the remote GitHub repository you just created by using the command:
 	* ```git remote add practice-origin https://github.com/project-steward/Practice-Git```
 
 
 ###	Part 4: Participate and practice Git!
 
 1. After downloading the repo's files, go to the folder titled 'introductions' and create a new text file. Title the file with your name (ex: molly-watson.txt).
+	* ```cd Practice-Git```
 2. Fill the file with the following information (see introductions/molly-watson.txt for examples):
 	* Name:
-	* Message for the group:
-3. Next, open the file in the main Git-Demo repository titled 'participants.txt', and add your name to the bottom of the list. 
+	* Tell us something about yourself:
+	* Write a message for the group:
+3. Next, open the file in the main Practice Git repository titled 'participants.txt', and add your name to the bottom of the list. 
 4. In the Terminal / Command Line program, use the 'git status' command to check the state of your files. You should see that there is one new untracked file, and one new modified file.
 5. Add / update these files by using the 'git add' command, like so:
 	* ```git add introductions/your-name.txt```
