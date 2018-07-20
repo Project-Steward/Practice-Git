@@ -51,9 +51,5 @@
 9. Lastly, push your changes to your repo! Use the following command: 
 	* ```git push practice-origin master```
 	* When you run this command, you will need to enter your GitHub username and password in order to proceed
-10. When you're fully satisified with your materials, submit a Pull Request to this Git-Demo repository:
- 	1. Click "Pull Requests" on the top of the [Practice-Git repository](https://github.com/project-steward/Practice-Git).
- 	2. Click the green "New Pull Request" button in the top right corner. 
- 	3. On the left drop-down, select the branch where your personal Git-Demo respositoy is stored.
- 	4. Click the green "Create pull request" below. 
- 	5. That's it! The project's moderator (me) will now review your code and merge it into the [#HourofCode Git-Demo repository](https://github.com/project-steward/Practice-Git).
+10. Go to the [Project Steward Practice-Git Repository](https://github.com/project-steward/Practice-Git). Do your changes show up? 
+	* If you have any problems, post them to the [#tech-help channel on Slack](https://project-steward.slack.com/messages/CBV8D17D4)
