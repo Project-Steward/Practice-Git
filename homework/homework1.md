@@ -9,8 +9,8 @@
 1. Install Git on your home system / primary development system using **one** of the following links:
 	* Download a compatible version of Git for your system: http://git-scm.com/downloads
 	* Download a GitHub Desktop client for your system: [Mac](https://mac.github.com/) | [Windows](https://windows.github.com/)
-2. Walk through the [Try Git Tutorial](https://try.github.io/levels/1/challenges/1) at least once
-3. Download the [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) for easy reference!
+2. Walk through the [Hello World Tutorial](https://guides.github.com/activities/hello-world/) at least once
+3. Download the [GitHub Cheat Sheet](https://services.github.com/on-demand/resources/cheatsheets/) for easy reference!
 4. Set up your global variables, using the following commands:
 	* ```git config --global user.name "Your Full Name"```
 	* ```git config --global user.email "Your email address"```
@@ -18,7 +18,9 @@
 ###	Part 3: Get the Git-Demo files
 
 1. Decide on a location on your computer where you can download the Git-Demo repository
-2. Navigate to that folder in Terminal (Mac) or Command Line (Windows), or use one of the Desktop clients.
+2. Navigate to that folder in Terminal (Mac) or Command Line (Windows):
+	* type: ```cd path/to/your/file/```
+	* for example: ```cd ~/Dropbox/Code/Practice-Git/``` (Mac/Linux) | ```cd Users\yourUserName\Code\Practice-Git\``` (Windows)
 3. Create a new git repository in that location by using the command:
 	* ```git init```
 4. Copy the remote Git-Demo repository's code to your computer using ```git clone```:
