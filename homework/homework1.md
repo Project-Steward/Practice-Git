@@ -1,11 +1,11 @@
-##Homework \#1:
+##	Homework \#1:
 =============
 
-####Part 1: Join GitHub
+###	Part 1: Join GitHub
 
 1. If you haven't already done so, create a GitHub account. It's free!
 
-####Part 2: Get Git Setup
+###	Part 2: Get Git Setup
 
 1. Install Git on your home system / primary development system using **one** of the following links:
 	* Download a compatible version of Git for your system: http://git-scm.com/downloads
@@ -16,7 +16,7 @@
 	* ```git config --global user.name "Your Full Name"```
 	* ```git config --global user.email "Your email address"```
 
-####Part 3: Get the Git-Demo files
+###	Part 3: Get the Git-Demo files
 
 1. Decide on a location on your computer where you can download the Git-Demo repository
 2. Navigate to that folder in Terminal (Mac) or Command Line (Windows), or use one of the Desktop clients.
@@ -31,7 +31,7 @@
 	* ```git remote add git-demo-origin [insert your GitHub link here]```
 
 
-####Part 4: Participate and practice Git!
+###	Part 4: Participate and practice Git!
 
 1. After downloading the repo's files, go to the folder titled 'introductions' and create a new text file. Title the file with your name (ex: molly-watson.txt).
 2. Fill the file with the following information (see introductions/molly-watson.txt for examples):
